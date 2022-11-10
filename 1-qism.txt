@@ -1,2 +1,3 @@
 1-O�zgarishlar
 Git pull buyrug'i uchun maxsus  o'zgartirishlar
+Git fetch buyrug'i uchun bazi  o'zgartirishlar

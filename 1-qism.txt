@@ -1,1 +1,2 @@
-1-O’zgarishlar
+1-Oï¿½zgarishlar
+Git pull buyrug'i uchun maxsus  o'zgartirishlar
